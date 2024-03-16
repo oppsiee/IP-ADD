@@ -19,6 +19,6 @@ public class ComputerManager : MonoBehaviour
 
     public void OnMouseDown()
     {
-        Debug.Log("Saya DiTekan!! " + this.gameObject.name); 
+        Debug.Log("Saya DiTekan!!! " + this.gameObject.name); 
     }
 }
